@@ -1,0 +1,63 @@
+@import url();
+
+#dojocat{
+    display: inline-block;   
+}
+
+#droidcat.png{
+    display: inline-block;
+}
+
+#homercat{
+    display: inline-block;
+}
+
+#mona{
+    height: 200px; width: auto;
+    display: inline-block;
+}
+#professor{
+    display: inline-block;
+}
+#skate{
+    display: inline-block;
+}
+#sorry{
+    display: inline-block;
+}
+#spidercat{
+    height: 200px;
+    display: inline-block;
+}
+#steroid{
+    height: 200px;
+    display: inline-block;
+}
+.gB{
+    display: flex;
+    justify-content: Center;
+    font-size: 32;
+}
+img {
+    height: 200px;
+}
+.top{
+    background-color: royalblue;
+}
+.middle{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    display: inline-flex;
+    background-color: chartreuse;
+    width: 100%;
+}
+.bottom{
+    background-color: transparent;
+}
+
+.link2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
